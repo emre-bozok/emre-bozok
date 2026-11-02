@@ -4,8 +4,8 @@ I build practical AI applications in Python, with an interest in structured extr
 
 ## Projects
 
-### Dietitian AI
-A Turkish recipe and menu assistant combining local PDF extraction with source-aware retrieval and Google ADK tools. Includes tests for parsing, search fallback, and embedding-cache validation.
+### [Dietitian AI](https://github.com/Thewarrior01/dietitian-ai)
+A Turkish recipe and menu assistant combining local PDF extraction with source-aware retrieval and Google ADK tools. Includes synthetic demo data and 25 tests for parsing, search fallback, and embedding-cache validation.
 
 Python · Google ADK · Gemini · Ollama · Pydantic · BM25 · PyMuPDF
 
