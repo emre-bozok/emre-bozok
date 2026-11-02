@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Emre
 
-<!--
-**Thewarrior01/Thewarrior01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical AI applications in Python, with an interest in structured extraction, retrieval, and tool-based assistants.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Dietitian AI
+A Turkish recipe and menu assistant combining local PDF extraction with source-aware retrieval and Google ADK tools. Includes tests for parsing, search fallback, and embedding-cache validation.
+
+Python · Google ADK · Gemini · Ollama · Pydantic · BM25 · PyMuPDF
+
+## Learning repositories
+
+- [GuardRail-LLM](https://github.com/Thewarrior01/GuardRail-LLM) — examples exploring LLM guardrails, anonymization, and retrieval safety.
+- [MCP-Server](https://github.com/Thewarrior01/MCP-Server) — course materials exploring API gateways, conversation state, Redis, and deployment.
